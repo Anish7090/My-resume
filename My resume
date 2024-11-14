@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      margin: 20px;
+      padding: 20px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2, h3 {
+      margin-top: 0;
+    }
+    .contact {
+      text-align: center;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background-color: #ddd;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Your Name</h1>
+    <p>Electronics and Communication Engineer | Aspiring Professional</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Brief introduction about your background, interests, and career goals.</p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Skill 1</li>
+      <li>Skill 2</li>
+      <li>Skill 3</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Experience</h2>
+    <h3>Job Title - Company</h3>
+    <p>Duration</p>
+    <p>Describe your role and achievements.</p>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <h3>Degree - Institution</h3>
+    <p>Year of Graduation</p>
+    <p>Details about your studies.</p>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <p>Email: your.email@example.com</p>
+    <p>Phone: +123 456 7890</p>
+  </section>
+
+  <footer>
+    <p>© 2024 Your Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
